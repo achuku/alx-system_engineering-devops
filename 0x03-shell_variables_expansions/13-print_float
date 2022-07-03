@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $($NUM"\n")
+echo $(scale=2; $NUM"\n")
